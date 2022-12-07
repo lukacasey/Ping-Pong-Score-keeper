@@ -4,6 +4,7 @@ const p1Display = document.querySelector("#p1Display");
 const p2Display = document.querySelector("#p2Display");
 const resetButton = document.querySelector("#reset");
 const winningScoreSelect = document.querySelector("#playTo");
+const ethnicity = "croatian";
 
 let p1Score = 0;
 let p2Score = 0;
